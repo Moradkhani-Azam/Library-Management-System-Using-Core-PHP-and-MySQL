@@ -1,0 +1,17 @@
+header #logo img,
+header #logo p {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+header #logo p {
+  color: #ffffff;
+  font-weight: bold;
+  /*font-size: 2.1rem;*/
+}
+
+#alert-message {
+  min-width: 300px;
+  width: fit-content;
+  block-size: fit-content;
+}
